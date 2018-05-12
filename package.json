@@ -25,6 +25,7 @@
         "express": "^4.16.2",
         "fs": "0.0.1-security",
         "moment": "^2.20.0",
-        "socket.io": "^2.0.4"
+        "socket.io": "^2.0.4",
+        "sqlite3": "^4.0.0"
     }
 }

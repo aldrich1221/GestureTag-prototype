@@ -101,6 +101,12 @@ app.get('/swipe', (req, res) => {
     res.sendFile(path.join(__dirname, 'swipe.html'));
 });
 
+
+app.get('/pilot', (req, res) => {
+    res.sendFile(path.join(__dirname, 'pilot.html'));
+});
+
+
 app.get('/tap', (req, res) => {
     res.sendFile(path.join(__dirname, 'tap.html'));
 });
@@ -151,6 +157,10 @@ io.on('connection', function(socket) {
     // recieve swiping event
     if (type === 'swipe') {
         socket.on('swipe', function(dir) {
+            if(dir.task!=null){
+                 var msg=`TaskCount: ${dir.TaskCount} Task: ${dir.task} Swipe: ${dir.task} Error: ${dir.error}`;
+                    writeSwipeErrorLog(msg)
+                }
             io.emit('swipe', dir);
         });
     }
@@ -166,6 +176,11 @@ io.on('connection', function(socket) {
     // receive touch raw data
     socket.on('touch', (event) => {
         if (event.type === 'hammer.input') {
+            console.log(`Task: ${event.task} touchX: ${event.pos.x} touchY: ${event.pos.y}`)
+            if(event.task!=null){
+                        var msg=`Task: ${event.task} touchX: ${event.pos.x} touchY: ${event.pos.y}`;
+                        writeTouchLog(msg);
+                }
             io.emit('touch', event.pos);
         }
     });
@@ -222,6 +237,29 @@ var writeLogCalibration = (msg) => {
 
     console.log(CalibrationLogmsg);
     fs.appendFile(fileName, CalibrationLogmsg, function(err) {
+        if (err) console.error(err);
+    });
+};
+
+
+var writeTouchLog= (msg) => {
+    var time = moment().format('MM/DD HH:mm:ss:SSS');
+    var TouchLogmsg = time + '\t' + msg + '\r\n';
+    var fileName = 'log/TouchLog_' + user_id + '_' + moment().format('MMDD-HHmm')+ '.txt';
+
+    console.log(TouchLogmsg);
+    fs.appendFile(fileName, TouchLogmsg, function(err) {
+        if (err) console.error(err);
+    });
+};
+
+var writeSwipeErrorLog= (msg) => {
+    var time = moment().format('MM/DD HH:mm:ss:SSS');
+    var TouchLogmsg = time + '\t' + msg + '\r\n';
+    var fileName = 'log/TouchErrorLog_' + user_id + '_' + moment().format('MMDD-HHmm')+ '.txt';
+
+    console.log(TouchLogmsg);
+    fs.appendFile(fileName, TouchLogmsg, function(err) {
         if (err) console.error(err);
     });
 };

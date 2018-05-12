@@ -1,0 +1,493 @@
+05/12 16:45:39:627	touchX: 624 touchY: 227
+05/12 16:45:39:631	touchX: 623 touchY: 219
+05/12 16:45:39:639	touchX: 623 touchY: 209
+05/12 16:45:39:647	touchX: 624 touchY: 197
+05/12 16:45:39:654	touchX: 626 touchY: 183
+05/12 16:45:39:667	touchX: 629 touchY: 166
+05/12 16:45:39:679	touchX: 633 touchY: 148
+05/12 16:45:39:688	touchX: 638 touchY: 129
+05/12 16:45:39:695	touchX: 644 touchY: 109
+05/12 16:45:39:710	touchX: 644 touchY: 109
+05/12 16:45:40:650	touchX: 827 touchY: 272
+05/12 16:45:40:657	touchX: 823 touchY: 271
+05/12 16:45:40:673	touchX: 814 touchY: 270
+05/12 16:45:40:677	touchX: 799 touchY: 268
+05/12 16:45:40:692	touchX: 781 touchY: 265
+05/12 16:45:40:701	touchX: 759 touchY: 263
+05/12 16:45:40:710	touchX: 735 touchY: 262
+05/12 16:45:40:718	touchX: 709 touchY: 263
+05/12 16:45:40:731	touchX: 681 touchY: 264
+05/12 16:45:40:738	touchX: 651 touchY: 268
+05/12 16:45:40:752	touchX: 651 touchY: 268
+05/12 16:45:41:706	touchX: 893 touchY: 303
+05/12 16:45:41:713	touchX: 894 touchY: 279
+05/12 16:45:41:726	touchX: 897 touchY: 257
+05/12 16:45:41:733	touchX: 899 touchY: 234
+05/12 16:45:41:748	touchX: 900 touchY: 213
+05/12 16:45:41:754	touchX: 900 touchY: 191
+05/12 16:45:41:766	touchX: 899 touchY: 173
+05/12 16:45:41:774	touchX: 899 touchY: 155
+05/12 16:45:41:786	touchX: 899 touchY: 139
+05/12 16:45:41:794	touchX: 901 touchY: 120
+05/12 16:45:41:808	touchX: 901 touchY: 120
+05/12 16:45:57:930	touchX: 1251 touchY: 211
+05/12 16:45:57:942	touchX: 1254 touchY: 209
+05/12 16:45:57:942	touchX: 1254 touchY: 209
+05/12 16:45:57:942	touchX: 1255 touchY: 205
+05/12 16:45:57:946	touchX: 1256 touchY: 201
+05/12 16:45:57:959	touchX: 1256 touchY: 198
+05/12 16:45:57:971	touchX: 1256 touchY: 195
+05/12 16:45:57:980	touchX: 1255 touchY: 192
+05/12 16:45:57:987	touchX: 1255 touchY: 188
+05/12 16:45:57:992	touchX: 1254 touchY: 183
+05/12 16:45:58:011	touchX: 1252 touchY: 177
+05/12 16:45:58:021	touchX: 1251 touchY: 169
+05/12 16:45:58:029	touchX: 1248 touchY: 159
+05/12 16:45:58:041	touchX: 1246 touchY: 148
+05/12 16:45:58:049	touchX: 1244 touchY: 135
+05/12 16:45:58:060	touchX: 1243 touchY: 120
+05/12 16:45:58:074	touchX: 1243 touchY: 105
+05/12 16:45:58:084	touchX: 1242 touchY: 90
+05/12 16:45:58:096	touchX: 1242 touchY: 90
+05/12 16:45:59:005	touchX: 1051 touchY: 267
+05/12 16:45:59:012	touchX: 1054 touchY: 265
+05/12 16:45:59:025	touchX: 1054 touchY: 265
+05/12 16:45:59:033	touchX: 1055 touchY: 259
+05/12 16:45:59:045	touchX: 1057 touchY: 250
+05/12 16:45:59:054	touchX: 1059 touchY: 237
+05/12 16:45:59:065	touchX: 1061 touchY: 220
+05/12 16:45:59:073	touchX: 1065 touchY: 200
+05/12 16:45:59:088	touchX: 1070 touchY: 177
+05/12 16:45:59:096	touchX: 1077 touchY: 152
+05/12 16:45:59:109	touchX: 1084 touchY: 127
+05/12 16:45:59:118	touchX: 1092 touchY: 107
+05/12 16:45:59:127	touchX: 1098 touchY: 91
+05/12 16:45:59:164	touchX: 1098 touchY: 91
+05/12 16:45:59:628	touchX: 975 touchY: 177
+05/12 16:45:59:645	touchX: 968 touchY: 181
+05/12 16:45:59:653	touchX: 959 touchY: 190
+05/12 16:45:59:665	touchX: 948 touchY: 205
+05/12 16:45:59:671	touchX: 937 touchY: 225
+05/12 16:45:59:687	touchX: 925 touchY: 247
+05/12 16:45:59:691	touchX: 916 touchY: 273
+05/12 16:45:59:704	touchX: 908 touchY: 301
+05/12 16:45:59:712	touchX: 901 touchY: 328
+05/12 16:45:59:724	touchX: 897 touchY: 354
+05/12 16:45:59:734	touchX: 894 touchY: 378
+05/12 16:45:59:744	touchX: 892 touchY: 400
+05/12 16:45:59:754	touchX: 892 touchY: 400
+05/12 16:46:00:465	touchX: 685 touchY: 266
+05/12 16:46:00:469	touchX: 668 touchY: 261
+05/12 16:46:00:473	touchX: 650 touchY: 259
+05/12 16:46:00:478	touchX: 629 touchY: 257
+05/12 16:46:00:489	touchX: 607 touchY: 255
+05/12 16:46:00:504	touchX: 583 touchY: 254
+05/12 16:46:00:512	touchX: 561 touchY: 251
+05/12 16:46:00:523	touchX: 537 touchY: 247
+05/12 16:46:00:530	touchX: 513 touchY: 241
+05/12 16:46:00:543	touchX: 489 touchY: 233
+05/12 16:46:00:549	touchX: 464 touchY: 223
+05/12 16:46:00:564	touchX: 440 touchY: 215
+05/12 16:46:00:571	touchX: 417 touchY: 206
+05/12 16:46:00:576	touchX: 395 touchY: 199
+05/12 16:46:00:590	touchX: 375 touchY: 193
+05/12 16:46:00:595	touchX: 375 touchY: 193
+05/12 16:46:01:079	touchX: 542 touchY: 141
+05/12 16:46:01:090	touchX: 542 touchY: 148
+05/12 16:46:01:103	touchX: 541 touchY: 161
+05/12 16:46:01:110	touchX: 539 touchY: 179
+05/12 16:46:01:123	touchX: 537 touchY: 204
+05/12 16:46:01:130	touchX: 531 touchY: 233
+05/12 16:46:01:143	touchX: 525 touchY: 265
+05/12 16:46:01:151	touchX: 521 touchY: 301
+05/12 16:46:01:164	touchX: 517 touchY: 338
+05/12 16:46:01:174	touchX: 515 touchY: 374
+05/12 16:46:01:180	touchX: 515 touchY: 405
+05/12 16:46:01:204	touchX: 515 touchY: 405
+05/12 17:08:41:793	touchX: 858 touchY: 273
+05/12 17:08:41:797	touchX: 855 touchY: 269
+05/12 17:08:41:811	touchX: 852 touchY: 265
+05/12 17:08:41:818	touchX: 850 touchY: 261
+05/12 17:08:41:831	touchX: 850 touchY: 257
+05/12 17:08:41:839	touchX: 849 touchY: 252
+05/12 17:08:41:843	touchX: 850 touchY: 249
+05/12 17:08:41:862	touchX: 850 touchY: 243
+05/12 17:08:41:873	touchX: 851 touchY: 239
+05/12 17:08:41:877	touchX: 853 touchY: 233
+05/12 17:08:41:891	touchX: 854 touchY: 227
+05/12 17:08:41:898	touchX: 856 touchY: 219
+05/12 17:08:41:910	touchX: 858 touchY: 208
+05/12 17:08:41:922	touchX: 858 touchY: 208
+05/12 17:08:43:364	touchX: 1020 touchY: 183
+05/12 17:08:43:372	touchX: 1016 touchY: 187
+05/12 17:08:43:386	touchX: 1016 touchY: 187
+05/12 17:08:43:392	touchX: 1014 touchY: 193
+05/12 17:08:43:405	touchX: 1010 touchY: 205
+05/12 17:08:43:412	touchX: 1006 touchY: 223
+05/12 17:08:43:424	touchX: 1003 touchY: 245
+05/12 17:08:43:432	touchX: 1001 touchY: 269
+05/12 17:08:43:445	touchX: 1000 touchY: 295
+05/12 17:08:43:451	touchX: 1001 touchY: 319
+05/12 17:08:43:465	touchX: 1002 touchY: 341
+05/12 17:08:43:473	touchX: 1005 touchY: 360
+05/12 17:08:43:486	touchX: 1007 touchY: 376
+05/12 17:08:43:525	touchX: 1007 touchY: 376
+05/12 17:08:44:130	touchX: 1103 touchY: 217
+05/12 17:08:44:145	touchX: 1092 touchY: 215
+05/12 17:08:44:151	touchX: 1076 touchY: 211
+05/12 17:08:44:165	touchX: 1057 touchY: 208
+05/12 17:08:44:173	touchX: 1039 touchY: 205
+05/12 17:08:44:186	touchX: 1022 touchY: 201
+05/12 17:08:44:194	touchX: 1006 touchY: 199
+05/12 17:08:44:206	touchX: 990 touchY: 196
+05/12 17:08:44:222	touchX: 990 touchY: 196
+05/12 17:09:00:283	touchX: 915 touchY: 223
+05/12 17:09:00:287	touchX: 910 touchY: 222
+05/12 17:09:00:300	touchX: 910 touchY: 222
+05/12 17:09:00:306	touchX: 910 touchY: 222
+05/12 17:09:00:319	touchX: 904 touchY: 218
+05/12 17:09:00:327	touchX: 900 touchY: 215
+05/12 17:09:00:340	touchX: 896 touchY: 213
+05/12 17:09:00:345	touchX: 893 touchY: 211
+05/12 17:09:00:360	touchX: 891 touchY: 209
+05/12 17:09:00:368	touchX: 889 touchY: 207
+05/12 17:09:00:381	touchX: 888 touchY: 205
+05/12 17:09:00:388	touchX: 887 touchY: 205
+05/12 17:09:00:402	touchX: 886 touchY: 203
+05/12 17:09:00:406	touchX: 885 touchY: 203
+05/12 17:09:00:420	touchX: 885 touchY: 201
+05/12 17:09:00:440	touchX: 885 touchY: 200
+05/12 17:09:00:447	touchX: 886 touchY: 199
+05/12 17:09:00:460	touchX: 887 touchY: 197
+05/12 17:09:00:467	touchX: 887 touchY: 195
+05/12 17:09:00:480	touchX: 888 touchY: 193
+05/12 17:09:00:486	touchX: 889 touchY: 189
+05/12 17:09:00:500	touchX: 890 touchY: 184
+05/12 17:09:00:507	touchX: 891 touchY: 177
+05/12 17:09:00:519	touchX: 892 touchY: 169
+05/12 17:09:00:527	touchX: 893 touchY: 159
+05/12 17:09:00:540	touchX: 895 touchY: 147
+05/12 17:09:00:547	touchX: 897 touchY: 134
+05/12 17:09:00:560	touchX: 900 touchY: 121
+05/12 17:09:00:567	touchX: 904 touchY: 105
+05/12 17:09:00:581	touchX: 909 touchY: 88
+05/12 17:09:00:588	touchX: 909 touchY: 88
+05/12 17:09:02:676	touchX: 1057 touchY: 242
+05/12 17:09:02:681	touchX: 1050 touchY: 244
+05/12 17:09:02:691	touchX: 1050 touchY: 244
+05/12 17:09:02:698	touchX: 1041 touchY: 243
+05/12 17:09:02:711	touchX: 1029 touchY: 242
+05/12 17:09:02:720	touchX: 1016 touchY: 243
+05/12 17:09:02:732	touchX: 1000 touchY: 241
+05/12 17:09:02:738	touchX: 984 touchY: 241
+05/12 17:09:02:751	touchX: 966 touchY: 241
+05/12 17:09:02:758	touchX: 949 touchY: 242
+05/12 17:09:02:770	touchX: 931 touchY: 243
+05/12 17:09:02:778	touchX: 913 touchY: 247
+05/12 17:09:02:791	touchX: 895 touchY: 251
+05/12 17:09:02:798	touchX: 876 touchY: 257
+05/12 17:09:02:812	touchX: 876 touchY: 257
+05/12 17:09:03:355	touchX: 1024 touchY: 252
+05/12 17:09:03:359	touchX: 1024 touchY: 252
+05/12 17:09:03:377	touchX: 1019 touchY: 247
+05/12 17:09:03:392	touchX: 1015 touchY: 242
+05/12 17:09:03:400	touchX: 1011 touchY: 233
+05/12 17:09:03:411	touchX: 1008 touchY: 224
+05/12 17:09:03:418	touchX: 1005 touchY: 212
+05/12 17:09:03:423	touchX: 1004 touchY: 199
+05/12 17:09:03:439	touchX: 1003 touchY: 183
+05/12 17:09:03:453	touchX: 1005 touchY: 164
+05/12 17:09:03:457	touchX: 1009 touchY: 143
+05/12 17:09:03:470	touchX: 1014 touchY: 121
+05/12 17:09:03:478	touchX: 1020 touchY: 103
+05/12 17:09:03:490	touchX: 1023 touchY: 86
+05/12 17:09:03:528	touchX: 1023 touchY: 86
+05/12 17:09:04:555	touchX: 1091 touchY: 235
+05/12 17:09:04:563	touchX: 1090 touchY: 236
+05/12 17:09:04:568	touchX: 1094 touchY: 235
+05/12 17:09:04:595	touchX: 1100 touchY: 235
+05/12 17:09:04:603	touchX: 1108 touchY: 233
+05/12 17:09:04:616	touchX: 1117 touchY: 233
+05/12 17:09:04:623	touchX: 1131 touchY: 233
+05/12 17:09:04:637	touchX: 1145 touchY: 231
+05/12 17:09:04:641	touchX: 1163 touchY: 229
+05/12 17:09:04:654	touchX: 1183 touchY: 228
+05/12 17:09:04:663	touchX: 1205 touchY: 226
+05/12 17:09:04:675	touchX: 1229 touchY: 225
+05/12 17:09:04:683	touchX: 1251 touchY: 222
+05/12 17:09:04:695	touchX: 1271 touchY: 221
+05/12 17:09:04:703	touchX: 1289 touchY: 221
+05/12 17:09:04:716	touchX: 1302 touchY: 220
+05/12 17:09:04:723	touchX: 1312 touchY: 221
+05/12 17:09:04:762	touchX: 1312 touchY: 221
+05/12 17:09:06:658	touchX: 1171 touchY: 273
+05/12 17:09:06:664	touchX: 1170 touchY: 277
+05/12 17:09:06:676	touchX: 1170 touchY: 277
+05/12 17:09:06:686	touchX: 1170 touchY: 277
+05/12 17:09:06:696	touchX: 1167 touchY: 273
+05/12 17:09:06:705	touchX: 1164 touchY: 269
+05/12 17:09:06:710	touchX: 1161 touchY: 261
+05/12 17:09:06:723	touchX: 1159 touchY: 249
+05/12 17:09:06:738	touchX: 1157 touchY: 233
+05/12 17:09:06:744	touchX: 1157 touchY: 212
+05/12 17:09:06:756	touchX: 1157 touchY: 187
+05/12 17:09:06:763	touchX: 1159 touchY: 158
+05/12 17:09:06:777	touchX: 1163 touchY: 126
+05/12 17:09:06:784	touchX: 1168 touchY: 96
+05/12 17:09:06:797	touchX: 1173 touchY: 72
+05/12 17:09:06:804	touchX: 1177 touchY: 55
+05/12 17:09:06:817	touchX: 1179 touchY: 47
+05/12 17:09:06:825	touchX: 1178 touchY: 42
+05/12 17:09:06:838	touchX: 1175 touchY: 43
+05/12 17:09:06:874	touchX: 1175 touchY: 43
+05/12 17:09:08:722	touchX: 1136 touchY: 149
+05/12 17:09:08:726	touchX: 1133 touchY: 149
+05/12 17:09:08:738	touchX: 1133 touchY: 149
+05/12 17:09:08:745	touchX: 1132 touchY: 153
+05/12 17:09:08:758	touchX: 1130 touchY: 161
+05/12 17:09:08:765	touchX: 1127 touchY: 174
+05/12 17:09:08:778	touchX: 1124 touchY: 193
+05/12 17:09:08:787	touchX: 1121 touchY: 219
+05/12 17:09:08:798	touchX: 1121 touchY: 249
+05/12 17:09:08:806	touchX: 1123 touchY: 281
+05/12 17:09:08:811	touchX: 1127 touchY: 313
+05/12 17:09:08:824	touchX: 1132 touchY: 341
+05/12 17:09:08:842	touchX: 1136 touchY: 361
+05/12 17:09:08:876	touchX: 1136 touchY: 361
+05/12 17:10:55:243	Task: Left touchX: 748 touchY: 229
+05/12 17:10:55:253	Task: Left touchX: 739 touchY: 224
+05/12 17:10:55:254	Task: Left touchX: 731 touchY: 223
+05/12 17:10:55:259	Task: Left touchX: 719 touchY: 220
+05/12 17:10:55:267	Task: Left touchX: 707 touchY: 217
+05/12 17:10:55:279	Task: Left touchX: 693 touchY: 215
+05/12 17:10:55:283	Task: Left touchX: 680 touchY: 214
+05/12 17:10:55:298	Task: Left touchX: 665 touchY: 213
+05/12 17:10:55:306	Task: Left touchX: 652 touchY: 213
+05/12 17:10:55:317	Task: Left touchX: 638 touchY: 213
+05/12 17:10:55:324	Task: Left touchX: 625 touchY: 213
+05/12 17:10:55:336	Task: Left touchX: 612 touchY: 213
+05/12 17:10:55:346	Task: Left touchX: 612 touchY: 213
+05/12 17:11:14:908	Task: Up touchX: 949 touchY: 264
+05/12 17:11:14:912	Task: Up touchX: 947 touchY: 259
+05/12 17:11:14:933	Task: Up touchX: 944 touchY: 259
+05/12 17:11:14:946	Task: Up touchX: 941 touchY: 255
+05/12 17:11:14:953	Task: Up touchX: 938 touchY: 251
+05/12 17:11:14:966	Task: Up touchX: 937 touchY: 246
+05/12 17:11:14:976	Task: Up touchX: 935 touchY: 240
+05/12 17:11:14:986	Task: Up touchX: 935 touchY: 232
+05/12 17:11:14:994	Task: Up touchX: 935 touchY: 223
+05/12 17:11:15:006	Task: Up touchX: 935 touchY: 211
+05/12 17:11:15:014	Task: Up touchX: 936 touchY: 199
+05/12 17:11:15:026	Task: Up touchX: 937 touchY: 185
+05/12 17:11:15:033	Task: Up touchX: 938 touchY: 171
+05/12 17:11:15:045	Task: Up touchX: 938 touchY: 157
+05/12 17:11:15:052	Task: Up touchX: 937 touchY: 144
+05/12 17:11:15:068	Task: Up touchX: 935 touchY: 131
+05/12 17:11:15:077	Task: Up touchX: 935 touchY: 131
+05/12 17:11:24:315	Task: Right touchX: 938 touchY: 222
+05/12 17:11:24:319	Task: Right touchX: 952 touchY: 217
+05/12 17:11:24:330	Task: Right touchX: 965 touchY: 212
+05/12 17:11:24:337	Task: Right touchX: 978 touchY: 208
+05/12 17:11:24:351	Task: Right touchX: 993 touchY: 205
+05/12 17:11:24:357	Task: Right touchX: 1009 touchY: 203
+05/12 17:11:24:372	Task: Right touchX: 1028 touchY: 202
+05/12 17:11:24:379	Task: Right touchX: 1048 touchY: 201
+05/12 17:11:24:390	Task: Right touchX: 1070 touchY: 201
+05/12 17:11:24:399	Task: Right touchX: 1093 touchY: 203
+05/12 17:11:24:438	Task: Right touchX: 1093 touchY: 203
+05/12 17:11:26:217	Task: Right touchX: 806 touchY: 303
+05/12 17:11:26:221	Task: Right touchX: 792 touchY: 299
+05/12 17:11:26:233	Task: Right touchX: 778 touchY: 297
+05/12 17:11:26:238	Task: Right touchX: 762 touchY: 297
+05/12 17:11:26:252	Task: Right touchX: 744 touchY: 298
+05/12 17:11:26:259	Task: Right touchX: 723 touchY: 301
+05/12 17:11:26:274	Task: Right touchX: 699 touchY: 306
+05/12 17:11:26:280	Task: Right touchX: 673 touchY: 312
+05/12 17:11:26:303	Task: Right touchX: 643 touchY: 319
+05/12 17:11:26:307	Task: Right touchX: 643 touchY: 319
+05/12 17:33:22:372	Task: Left touchX: 641 touchY: 274
+05/12 17:33:22:376	Task: Left touchX: 638 touchY: 270
+05/12 17:33:22:392	Task: Left touchX: 636 touchY: 262
+05/12 17:33:22:399	Task: Left touchX: 634 touchY: 255
+05/12 17:33:22:412	Task: Left touchX: 633 touchY: 247
+05/12 17:33:22:421	Task: Left touchX: 633 touchY: 237
+05/12 17:33:22:436	Task: Left touchX: 634 touchY: 225
+05/12 17:33:22:438	Task: Left touchX: 635 touchY: 211
+05/12 17:33:22:453	Task: Left touchX: 637 touchY: 197
+05/12 17:33:22:459	Task: Left touchX: 638 touchY: 181
+05/12 17:33:22:471	Task: Left touchX: 640 touchY: 164
+05/12 17:33:22:479	Task: Left touchX: 640 touchY: 164
+05/12 17:33:25:727	Task: Down touchX: 1034 touchY: 183
+05/12 17:33:25:731	Task: Down touchX: 1035 touchY: 183
+05/12 17:33:25:741	Task: Down touchX: 1035 touchY: 183
+05/12 17:33:25:761	Task: Down touchX: 1035 touchY: 187
+05/12 17:33:25:768	Task: Down touchX: 1035 touchY: 192
+05/12 17:33:25:781	Task: Down touchX: 1035 touchY: 199
+05/12 17:33:25:789	Task: Down touchX: 1035 touchY: 208
+05/12 17:33:25:801	Task: Down touchX: 1035 touchY: 219
+05/12 17:33:25:808	Task: Down touchX: 1035 touchY: 233
+05/12 17:33:25:825	Task: Down touchX: 1035 touchY: 249
+05/12 17:33:25:833	Task: Down touchX: 1035 touchY: 268
+05/12 17:33:25:879	Task: Down touchX: 1035 touchY: 289
+05/12 17:33:25:841	Task: Down touchX: 1035 touchY: 289
+05/12 17:33:36:074	Task: Left touchX: 1001 touchY: 298
+05/12 17:33:36:078	Task: Left touchX: 999 touchY: 301
+05/12 17:33:36:086	Task: Left touchX: 999 touchY: 301
+05/12 17:33:36:093	Task: Left touchX: 996 touchY: 300
+05/12 17:33:36:106	Task: Left touchX: 990 touchY: 299
+05/12 17:33:36:114	Task: Left touchX: 982 touchY: 297
+05/12 17:33:36:127	Task: Left touchX: 971 touchY: 295
+05/12 17:33:36:135	Task: Left touchX: 957 touchY: 291
+05/12 17:33:36:147	Task: Left touchX: 938 touchY: 288
+05/12 17:33:36:153	Task: Left touchX: 913 touchY: 285
+05/12 17:33:36:166	Task: Left touchX: 879 touchY: 281
+05/12 17:33:36:173	Task: Left touchX: 834 touchY: 279
+05/12 17:33:36:187	Task: Left touchX: 834 touchY: 279
+05/12 17:33:39:627	Task: Down touchX: 943 touchY: 266
+05/12 17:33:39:633	Task: Down touchX: 937 touchY: 264
+05/12 17:33:39:652	Task: Down touchX: 934 touchY: 261
+05/12 17:33:39:665	Task: Down touchX: 927 touchY: 257
+05/12 17:33:39:672	Task: Down touchX: 921 touchY: 253
+05/12 17:33:39:684	Task: Down touchX: 914 touchY: 247
+05/12 17:33:39:692	Task: Down touchX: 907 touchY: 242
+05/12 17:33:39:705	Task: Down touchX: 901 touchY: 237
+05/12 17:33:39:712	Task: Down touchX: 895 touchY: 231
+05/12 17:33:39:725	Task: Down touchX: 889 touchY: 225
+05/12 17:33:39:734	Task: Down touchX: 883 touchY: 218
+05/12 17:33:39:746	Task: Down touchX: 878 touchY: 211
+05/12 17:33:39:751	Task: Down touchX: 871 touchY: 203
+05/12 17:33:39:766	Task: Down touchX: 855 touchY: 191
+05/12 17:33:39:774	Task: Down touchX: 855 touchY: 191
+05/12 17:35:31:362	Task: left touchX: 789 touchY: 266
+05/12 17:35:31:374	Task: left touchX: 777 touchY: 267
+05/12 17:35:31:378	Task: left touchX: 761 touchY: 269
+05/12 17:35:31:382	Task: left touchX: 742 touchY: 271
+05/12 17:35:31:389	Task: left touchX: 720 touchY: 275
+05/12 17:35:31:402	Task: left touchX: 697 touchY: 279
+05/12 17:35:31:411	Task: left touchX: 673 touchY: 284
+05/12 17:35:31:423	Task: left touchX: 649 touchY: 289
+05/12 17:35:31:430	Task: left touchX: 626 touchY: 294
+05/12 17:35:31:444	Task: left touchX: 603 touchY: 299
+05/12 17:35:31:448	Task: left touchX: 579 touchY: 305
+05/12 17:35:31:489	Task: left touchX: 579 touchY: 305
+05/12 17:35:35:894	Task: down touchX: 1079 touchY: 267
+05/12 17:35:35:898	Task: down touchX: 1078 touchY: 266
+05/12 17:35:35:916	Task: down touchX: 1078 touchY: 266
+05/12 17:35:35:935	Task: down touchX: 1076 touchY: 269
+05/12 17:35:35:947	Task: down touchX: 1076 touchY: 273
+05/12 17:35:35:955	Task: down touchX: 1076 touchY: 280
+05/12 17:35:35:968	Task: down touchX: 1077 touchY: 289
+05/12 17:35:35:976	Task: down touchX: 1077 touchY: 300
+05/12 17:35:35:988	Task: down touchX: 1078 touchY: 315
+05/12 17:35:35:996	Task: down touchX: 1079 touchY: 335
+05/12 17:35:36:001	Task: down touchX: 1078 touchY: 358
+05/12 17:35:36:022	Task: down touchX: 1078 touchY: 358
+05/12 17:35:38:893	Task: up touchX: 978 touchY: 304
+05/12 17:35:38:897	Task: up touchX: 975 touchY: 297
+05/12 17:35:38:908	Task: up touchX: 975 touchY: 297
+05/12 17:35:38:917	Task: up touchX: 974 touchY: 291
+05/12 17:35:38:933	Task: up touchX: 972 touchY: 280
+05/12 17:35:38:933	Task: up touchX: 971 touchY: 267
+05/12 17:35:38:948	Task: up touchX: 970 touchY: 251
+05/12 17:35:38:954	Task: up touchX: 970 touchY: 233
+05/12 17:35:38:968	Task: up touchX: 970 touchY: 214
+05/12 17:35:38:975	Task: up touchX: 971 touchY: 195
+05/12 17:35:38:988	Task: up touchX: 972 touchY: 174
+05/12 17:35:38:996	Task: up touchX: 973 touchY: 155
+05/12 17:35:39:008	Task: up touchX: 975 touchY: 137
+05/12 17:35:39:016	Task: up touchX: 975 touchY: 121
+05/12 17:35:39:030	Task: up touchX: 975 touchY: 121
+05/12 17:35:40:740	Task: left touchX: 1048 touchY: 228
+05/12 17:35:40:748	Task: left touchX: 1045 touchY: 224
+05/12 17:35:40:767	Task: left touchX: 1043 touchY: 225
+05/12 17:35:40:782	Task: left touchX: 1039 touchY: 223
+05/12 17:35:40:786	Task: left touchX: 1033 touchY: 220
+05/12 17:35:40:799	Task: left touchX: 1027 touchY: 219
+05/12 17:35:40:806	Task: left touchX: 1017 touchY: 216
+05/12 17:35:40:820	Task: left touchX: 1007 touchY: 215
+05/12 17:35:40:829	Task: left touchX: 991 touchY: 213
+05/12 17:35:40:841	Task: left touchX: 971 touchY: 214
+05/12 17:35:40:851	Task: left touchX: 944 touchY: 216
+05/12 17:35:40:869	Task: left touchX: 905 touchY: 222
+05/12 17:35:40:881	Task: left touchX: 852 touchY: 232
+05/12 17:35:40:906	Task: left touchX: 852 touchY: 232
+05/12 17:35:42:385	Task: up touchX: 976 touchY: 266
+05/12 17:35:42:389	Task: up touchX: 975 touchY: 266
+05/12 17:35:42:424	Task: up touchX: 974 touchY: 263
+05/12 17:35:42:431	Task: up touchX: 973 touchY: 259
+05/12 17:35:42:442	Task: up touchX: 972 touchY: 253
+05/12 17:35:42:452	Task: up touchX: 971 touchY: 247
+05/12 17:35:42:463	Task: up touchX: 969 touchY: 237
+05/12 17:35:42:471	Task: up touchX: 967 touchY: 225
+05/12 17:35:42:483	Task: up touchX: 965 touchY: 211
+05/12 17:35:42:491	Task: up touchX: 964 touchY: 195
+05/12 17:35:42:502	Task: up touchX: 963 touchY: 177
+05/12 17:35:42:510	Task: up touchX: 963 touchY: 159
+05/12 17:35:42:523	Task: up touchX: 965 touchY: 139
+05/12 17:35:42:531	Task: up touchX: 967 touchY: 121
+05/12 17:35:42:542	Task: up touchX: 969 touchY: 104
+05/12 17:35:42:553	Task: up touchX: 972 touchY: 89
+05/12 17:35:42:562	Task: up touchX: 975 touchY: 77
+05/12 17:35:42:568	Task: up touchX: 981 touchY: 67
+05/12 17:35:42:584	Task: up touchX: 981 touchY: 67
+05/12 17:35:44:677	Task: down touchX: 981 touchY: 242
+05/12 17:35:44:683	Task: down touchX: 979 touchY: 244
+05/12 17:35:44:703	Task: down touchX: 979 touchY: 244
+05/12 17:35:44:724	Task: down touchX: 979 touchY: 244
+05/12 17:35:44:742	Task: down touchX: 979 touchY: 244
+05/12 17:35:44:755	Task: down touchX: 979 touchY: 247
+05/12 17:35:44:762	Task: down touchX: 978 touchY: 249
+05/12 17:35:44:775	Task: down touchX: 978 touchY: 251
+05/12 17:35:44:783	Task: down touchX: 977 touchY: 252
+05/12 17:35:44:795	Task: down touchX: 977 touchY: 254
+05/12 17:35:44:803	Task: down touchX: 977 touchY: 255
+05/12 17:35:44:815	Task: down touchX: 976 touchY: 257
+05/12 17:35:44:823	Task: down touchX: 975 touchY: 259
+05/12 17:35:44:836	Task: down touchX: 975 touchY: 260
+05/12 17:35:44:842	Task: down touchX: 975 touchY: 261
+05/12 17:35:44:855	Task: down touchX: 974 touchY: 262
+05/12 17:35:44:862	Task: down touchX: 974 touchY: 263
+05/12 17:35:44:875	Task: down touchX: 973 touchY: 263
+05/12 17:35:44:883	Task: down touchX: 973 touchY: 264
+05/12 17:35:44:895	Task: down touchX: 973 touchY: 264
+05/12 17:35:44:903	Task: down touchX: 973 touchY: 265
+05/12 17:35:44:916	Task: down touchX: 972 touchY: 265
+05/12 17:35:44:955	Task: down touchX: 972 touchY: 265
+05/12 17:35:44:961	Task: down touchX: 971 touchY: 265
+05/12 17:35:44:975	Task: down touchX: 971 touchY: 267
+05/12 17:35:44:984	Task: down touchX: 972 touchY: 268
+05/12 17:35:44:995	Task: down touchX: 973 touchY: 271
+05/12 17:35:45:002	Task: down touchX: 974 touchY: 276
+05/12 17:35:45:015	Task: down touchX: 976 touchY: 284
+05/12 17:35:45:022	Task: down touchX: 979 touchY: 296
+05/12 17:35:45:035	Task: down touchX: 983 touchY: 313
+05/12 17:35:45:041	Task: down touchX: 989 touchY: 336
+05/12 17:35:45:055	Task: down touchX: 993 touchY: 365
+05/12 17:35:45:062	Task: down touchX: 994 touchY: 399
+05/12 17:35:45:076	Task: down touchX: 994 touchY: 399
+05/12 17:35:47:031	Task: right touchX: 902 touchY: 285
+05/12 17:35:47:037	Task: right touchX: 896 touchY: 284
+05/12 17:35:47:055	Task: right touchX: 885 touchY: 285
+05/12 17:35:47:068	Task: right touchX: 868 touchY: 287
+05/12 17:35:47:076	Task: right touchX: 845 touchY: 289
+05/12 17:35:47:087	Task: right touchX: 813 touchY: 295
+05/12 17:35:47:093	Task: right touchX: 769 touchY: 303
+05/12 17:35:47:106	Task: right touchX: 769 touchY: 303
+05/12 17:35:49:242	Task: right touchX: 935 touchY: 289
+05/12 17:35:49:246	Task: right touchX: 933 touchY: 289
+05/12 17:35:49:257	Task: right touchX: 933 touchY: 289
+05/12 17:35:49:264	Task: right touchX: 930 touchY: 286
+05/12 17:35:49:279	Task: right touchX: 925 touchY: 281
+05/12 17:35:49:287	Task: right touchX: 917 touchY: 275
+05/12 17:35:49:297	Task: right touchX: 906 touchY: 267
+05/12 17:35:49:305	Task: right touchX: 891 touchY: 256
+05/12 17:35:49:318	Task: right touchX: 873 touchY: 244
+05/12 17:35:49:326	Task: right touchX: 851 touchY: 231
+05/12 17:35:49:338	Task: right touchX: 829 touchY: 217
+05/12 17:35:49:344	Task: right touchX: 807 touchY: 204
+05/12 17:35:49:357	Task: right touchX: 785 touchY: 192
+05/12 17:35:49:364	Task: right touchX: 767 touchY: 182
+05/12 17:35:49:377	Task: right touchX: 751 touchY: 175
+05/12 17:35:49:381	Task: right touchX: 737 touchY: 169
+05/12 17:35:49:397	Task: right touchX: 723 touchY: 165
+05/12 17:35:49:406	Task: right touchX: 723 touchY: 165
