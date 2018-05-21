@@ -1,0 +1,12 @@
+05/16 10:44:00:648	TaskCount: 5 Task: 2 Swipe: 2 Error: 1
+05/16 10:44:01:626	TaskCount: 6 Task: 1 Swipe: 1 Error: 0
+05/16 10:44:03:644	TaskCount: 7 Task: 3 Swipe: 3 Error: 1
+05/16 10:44:06:890	TaskCount: 8 Task: 1 Swipe: 1 Error: 1
+05/16 10:44:44:319	TaskCount: 1 Task: 3 Swipe: 3 Error: 1
+05/16 10:44:45:757	TaskCount: 2 Task: 4 Swipe: 4 Error: 0
+05/16 10:44:47:160	TaskCount: 3 Task: 4 Swipe: 4 Error: 1
+05/16 10:44:48:172	TaskCount: 4 Task: 1 Swipe: 1 Error: 1
+05/16 10:44:49:051	TaskCount: 5 Task: 1 Swipe: 1 Error: 1
+05/16 10:44:49:874	TaskCount: 6 Task: 3 Swipe: 3 Error: 1
+05/16 10:44:50:462	TaskCount: 7 Task: 2 Swipe: 2 Error: 1
+05/16 10:44:54:974	TaskCount: 8 Task: 2 Swipe: 2 Error: 1

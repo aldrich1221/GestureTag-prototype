@@ -1,0 +1,7 @@
+05/16 15:10:00:287	Task: 8 touchX: 1037 touchY: 414 
+05/16 15:10:00:306	Task: 8 touchX: 1048 touchY: 426 
+05/16 15:10:00:315	Task: 8 touchX: 1067 touchY: 451 
+05/16 15:10:00:332	Task: 8 touchX: 1095 touchY: 488 
+05/16 15:10:00:348	Task: 8 touchX: 1165 touchY: 586 
+05/16 15:10:00:364	Task: 8 touchX: 1201 touchY: 636 
+05/16 15:10:00:368	Task: 8 touchX: 1201 touchY: 636 

@@ -1,0 +1,2 @@
+05/16 11:15:00:080	TaskCount: 15 Task: 1 Swipe: 1 Error: 0
+05/16 11:15:05:033	TaskCount: 16 Task: 6 Swipe: 6 Error: 0

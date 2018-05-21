@@ -1,0 +1,9 @@
+05/15 12:20:58:117	Task: 4 touchX: 653 touchY: 335 
+05/15 12:20:58:121	Task: 4 touchX: 654 touchY: 334 
+05/15 12:20:58:136	Task: 4 touchX: 661 touchY: 333 
+05/15 12:20:58:167	Task: 4 touchX: 675 touchY: 333 
+05/15 12:20:58:175	Task: 4 touchX: 699 touchY: 334 
+05/15 12:20:58:179	Task: 4 touchX: 730 touchY: 336 
+05/15 12:20:58:183	Task: 4 touchX: 770 touchY: 341 
+05/15 12:20:58:191	Task: 4 touchX: 817 touchY: 349 
+05/15 12:20:58:198	Task: 4 touchX: 817 touchY: 349 

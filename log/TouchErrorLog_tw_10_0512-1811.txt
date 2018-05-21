@@ -1,0 +1,8 @@
+05/12 18:11:36:634	TaskCount: 0 Task: right Swipe: right Error: 0
+05/12 18:11:40:518	TaskCount: 1 Task: left Swipe: left Error: 1
+05/12 18:11:41:690	TaskCount: 2 Task: up Swipe: up Error: 1
+05/12 18:11:42:304	TaskCount: 3 Task: down Swipe: down Error: 0
+05/12 18:11:42:663	TaskCount: 4 Task: down Swipe: down Error: 1
+05/12 18:11:43:044	TaskCount: 5 Task: right Swipe: right Error: 1
+05/12 18:11:43:389	TaskCount: 6 Task: left Swipe: left Error: 1
+05/12 18:11:43:890	TaskCount: 7 Task: up Swipe: up Error: 1

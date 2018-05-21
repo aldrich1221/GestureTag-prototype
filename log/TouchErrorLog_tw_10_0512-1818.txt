@@ -1,0 +1,16 @@
+05/12 18:18:13:319	TaskCount: 0 Task: down Swipe: down Error: 1
+05/12 18:18:13:946	TaskCount: 1 Task: left Swipe: left Error: 1
+05/12 18:18:14:280	TaskCount: 2 Task: up Swipe: up Error: 1
+05/12 18:18:14:494	TaskCount: 3 Task: right Swipe: right Error: 0
+05/12 18:18:14:685	TaskCount: 4 Task: up Swipe: up Error: 1
+05/12 18:18:14:986	TaskCount: 5 Task: right Swipe: right Error: 1
+05/12 18:18:15:220	TaskCount: 6 Task: left Swipe: left Error: 1
+05/12 18:18:15:752	TaskCount: 7 Task: down Swipe: down Error: 1
+05/12 18:18:55:652	TaskCount: 0 Task: down Swipe: down Error: 1
+05/12 18:18:55:940	TaskCount: 1 Task: up Swipe: up Error: 1
+05/12 18:18:56:182	TaskCount: 2 Task: right Swipe: right Error: 0
+05/12 18:18:56:355	TaskCount: 3 Task: down Swipe: down Error: 0
+05/12 18:18:56:623	TaskCount: 4 Task: right Swipe: right Error: 0
+05/12 18:18:56:771	TaskCount: 5 Task: up Swipe: up Error: 1
+05/12 18:18:57:016	TaskCount: 6 Task: left Swipe: left Error: 1
+05/12 18:18:57:286	TaskCount: 7 Task: left Swipe: left Error: 1

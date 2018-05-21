@@ -1,0 +1,8 @@
+05/15 12:44:03:398	TaskCount: 0 Task: 1 Swipe: 1 Error: 0
+05/15 12:44:05:232	TaskCount: 1 Task: 4 Swipe: 4 Error: 1
+05/15 12:44:06:824	TaskCount: 2 Task: 2 Swipe: 2 Error: 0
+05/15 12:44:08:801	TaskCount: 3 Task: 1 Swipe: 1 Error: 0
+05/15 12:44:10:485	TaskCount: 4 Task: 3 Swipe: 3 Error: 1
+05/15 12:44:12:055	TaskCount: 5 Task: 4 Swipe: 4 Error: 1
+05/15 12:44:13:477	TaskCount: 6 Task: 2 Swipe: 2 Error: 0
+05/15 12:44:15:168	TaskCount: 7 Task: 3 Swipe: 3 Error: 0

@@ -1,0 +1,16 @@
+05/16 10:41:59:092	Task: 1 touchX: 1001 touchY: 461 
+05/16 10:41:59:114	Task: 1 touchX: 1001 touchY: 460 
+05/16 10:41:59:116	Task: 1 touchX: 997 touchY: 459 
+05/16 10:41:59:127	Task: 1 touchX: 993 touchY: 456 
+05/16 10:41:59:147	Task: 1 touchX: 987 touchY: 453 
+05/16 10:41:59:164	Task: 1 touchX: 973 touchY: 444 
+05/16 10:41:59:167	Task: 1 touchX: 963 touchY: 438 
+05/16 10:41:59:179	Task: 1 touchX: 953 touchY: 432 
+05/16 10:41:59:195	Task: 1 touchX: 924 touchY: 418 
+05/16 10:41:59:212	Task: 1 touchX: 907 touchY: 410 
+05/16 10:41:59:229	Task: 1 touchX: 868 touchY: 391 
+05/16 10:41:59:246	Task: 1 touchX: 824 touchY: 370 
+05/16 10:41:59:263	Task: 1 touchX: 800 touchY: 360 
+05/16 10:41:59:278	Task: 1 touchX: 746 touchY: 337 
+05/16 10:41:59:294	Task: 1 touchX: 710 touchY: 324 
+05/16 10:41:59:306	Task: 1 touchX: 710 touchY: 324 

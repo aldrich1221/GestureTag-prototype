@@ -4,6 +4,15 @@ const express = require('express');
 const app = express();
 const path = require('path');
 const resources = '/resources';
+var RecordCount=1;
+var datacount=800
+var ErrorTask=[];
+var  ErrorTaskCount=[];
+var TouchDataRecord = new Array(4);
+for (i = 0; i < 4; i++) {
+    TouchDataRecord[i] = new Array(datacount).fill(0.0);
+   
+}
 
 
 if ((process.argv).length !== 7) {
@@ -101,11 +110,13 @@ app.get('/swipe', (req, res) => {
     res.sendFile(path.join(__dirname, 'swipe.html'));
 });
 
-
 app.get('/pilot', (req, res) => {
     res.sendFile(path.join(__dirname, 'pilot.html'));
 });
-
+app.get('/pilotResult', (req, res) => {
+   SendData();
+    res.sendFile(path.join(__dirname, 'pilotResult.html'));
+});
 
 app.get('/tap', (req, res) => {
     res.sendFile(path.join(__dirname, 'tap.html'));
@@ -159,6 +170,8 @@ io.on('connection', function(socket) {
         socket.on('swipe', function(dir) {
             if(dir.task!=null){
                  var msg=`TaskCount: ${dir.TaskCount} Task: ${dir.task} Swipe: ${dir.task} Error: ${dir.error}`;
+                    ErrorTask.push(dir.task)
+                    ErrorTaskCount.push(dir.error)
                     writeSwipeErrorLog(msg)
                 }
             io.emit('swipe', dir);
@@ -176,10 +189,16 @@ io.on('connection', function(socket) {
     // receive touch raw data
     socket.on('touch', (event) => {
         if (event.type === 'hammer.input') {
-            console.log(`Task: ${event.task} touchX: ${event.pos.x} touchY: ${event.pos.y}`)
-            if(event.task!=null){
-                        var msg=`Task: ${event.task} touchX: ${event.pos.x} touchY: ${event.pos.y}`;
-                        writeTouchLog(msg);
+            //console.log(`Task: ${event.task} touchX: ${event.pos.x} touchY: ${event.pos.y}`)
+            if(event.task!=null &&event.pos.x!=null&&event.pos.y!=null){
+                console.log(event.pos.x)
+                TouchDataRecord[0][RecordCount]=event.TaskCount;
+                TouchDataRecord[1][RecordCount]=event.task;
+                TouchDataRecord[2][RecordCount]=event.pos.x;
+                TouchDataRecord[3][RecordCount]=event.pos.y;
+                var msg=`Task: ${event.task} touchX: ${event.pos.x} touchY: ${event.pos.y} `;
+                RecordCount=RecordCount+1;
+                writeTouchLog(msg);
                 }
             io.emit('touch', event.pos);
         }
@@ -263,3 +282,126 @@ var writeSwipeErrorLog= (msg) => {
         if (err) console.error(err);
     });
 };
+
+/*
+function ReadLog(){
+fs.readFile('log/TouchLog_tw_10_0512-1810.txt','utf8', function read(err, data) {
+    if (err) {
+        console.error(err);
+    }
+    content = data;
+    io.on('connection', function(socket) {
+        io.emit('TouchLogData',content);
+    })
+    // Invoke the next step here however you like
+    console.log(content);   // Put all of the code here (not the best solution)
+    processFile();          // Or put the next step in a function and invoke it
+});
+
+function processFile() {
+    console.log(content);
+}
+}
+*/
+
+//function ReadLog(){
+  
+  /*
+         var myFileSysObj = new ActiveXObject("Scripting.FileSystemObject");
+    var myInputTextStream = myFileSysObj.OpenTextFile("log/TouchLog_tw_10_0512-1810.txt")
+    while(!myInputTextStream.AtEndOfStream){
+        console.log(myInputTextStream.ReadLine())
+        fs.read(fd, buffer, offset, length, position, callback)
+*/
+
+
+/*
+var readline = require('readline');
+var stream = require('stream');
+
+var instream = fs.createReadStream('log/TouchLog_tw_10_0514-2203.txt');
+var outstream = new stream;
+var rl = readline.createInterface(instream, outstream);
+
+var arr = [];
+
+rl.on('line', function(line) {
+  // process line here
+ 
+  text_position=25
+  var temptext=''
+  while(true){
+    temptext+=line[text_position]
+    
+
+    if(line[text_position+1]==' '){
+        if(text_position>25&&text_position<30)
+        {
+            var task=temptext
+        }
+        else if(text_position>38&&text_position<44)
+        {
+            var X=temptext
+        }
+        else if(text_position>51&&text_position<57)
+        {
+            var Y=temptext
+        }
+      // console.log(temptext)
+       temptext=''
+    }
+
+    console.log("Task:"+task+" X:"+X+" Y"+Y)
+
+    if(text_position>70){break}
+        text_position=text_position+1
+        }
+/*
+  io.on('connection', function(socket) {
+     io.emit('Touchdata',task,X);
+       })
+    
+  arr.push(line);
+});
+
+rl.on('close', function() {
+  // do something on finish here
+  //console.log('arr', arr);
+});
+
+
+}
+  */ 
+function SendData(){
+     io.on('connection', function(socket) {
+        for(i=0;i<ErrorTask.length;i++){
+            io.emit('Errormsg',ErrorTask[i],ErrorTaskCount[i])
+            }
+            for(i=0;i<datacount;i++){
+                //console.log(TouchDataRecord[0])
+                console.log("Send "+TouchDataRecord[0][i]+" "+TouchDataRecord[1][i]+" "+TouchDataRecord[2][i]+" "+TouchDataRecord[3][i])
+            io.emit('Touchdata',TouchDataRecord[0][i],TouchDataRecord[1][i],TouchDataRecord[2][i],TouchDataRecord[3][i],datacount);
+            }
+       })
+
+}
+
+/*
+var mysql      = require('mysql');
+var connection = mysql.createConnection({
+  host     : 'localhost',
+  user     : 'root',
+  password : '123456',
+  database : 'test'
+});
+ 
+connection.connect();
+ 
+connection.query('SELECT 1 + 1 AS solution', function (error, results, fields) {
+  if (error) console.log(error);
+  console.log('The solution is: ', results);
+});
+*/
+
+
+

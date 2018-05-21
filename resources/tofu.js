@@ -139,7 +139,8 @@ const tapImages = {
 
 $(document).keyup((e) => {
     // key "space" for entering trials
-    if (e.which === 32 && platform !== 'mobile') {
+    //if (e.which === 32 && platform !== 'mobile') {
+        if (e.which === 32 ) {
         e.preventDefault();
         socket.emit('start');
         trial_num = DEFAULT_TRIAL_NUM;

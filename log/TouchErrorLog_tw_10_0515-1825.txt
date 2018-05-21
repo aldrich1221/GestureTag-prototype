@@ -1,0 +1,4 @@
+05/15 18:25:54:202	TaskCount: 0 Task: 3 Swipe: 3 Error: 1
+05/15 18:25:55:575	TaskCount: 1 Task: 2 Swipe: 2 Error: 0
+05/15 18:25:57:294	TaskCount: 2 Task: 3 Swipe: 3 Error: 0
+05/15 18:25:59:720	TaskCount: 3 Task: 1 Swipe: 1 Error: 0
