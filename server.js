@@ -93,6 +93,9 @@ app.get('/', (req, res) => {
 app.get('/tofu', (req, res) => {
     res.render('tofu', loadImages());
 });
+app.get('/newtofu', (req, res) => {
+    res.render('newtofu', loadImages());
+});
 
 app.get('/tofum', (req, res) => {
     res.render('tofum', loadImages());
@@ -104,6 +107,10 @@ app.get('/gmail', (req, res) => {
 
 app.get('/youtube', (req, res) => {
     res.render('youtube', loadImages());
+});
+
+app.get('/Newyoutube', (req, res) => {
+    res.render('Newyoutube', loadImages());
 });
 
 app.get('/swipe', (req, res) => {

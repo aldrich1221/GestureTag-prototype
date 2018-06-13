@@ -5,11 +5,11 @@ const swipe = new Hammer.Swipe();
 var tester;
 manager.add(swipe);
 manager.add(new Hammer.Press({ event: 'superpress', time: 500 }));
-
 socket.on('user', function(user) {
     tester = user;
     console.log(tester);
 });
+
 
 socket.on('init', function(method) {
     width = document.documentElement.clientWidth;
@@ -17,6 +17,7 @@ socket.on('init', function(method) {
     console.log(width + ' ' + height);
     socket.emit('client_init', width, height);
 });
+
 
 manager.on('superpress', (ev) => {
     console.log('LONG PRESS');
@@ -51,8 +52,8 @@ manager.on('hammer.input', (ev) => {
         emitSwipeGesture(dir);
         ev.target.innerText = `${dir}`
     }
-
 });
+
 
 var forceFullScreen = () => {
     var doc = window.document;

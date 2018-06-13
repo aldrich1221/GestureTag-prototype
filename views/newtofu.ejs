@@ -1,0 +1,84 @@
+<html>
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=big5" />
+    <script src="http://code.jquery.com/jquery-3.2.1.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/hammer.js/2.0.8/hammer.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-circle-progress/1.2.2/circle-progress.js"></script>
+    <script type="text/javascript">
+        const RADIUS = 113;
+        //const RADIUS = 300;
+        const RAW_NUM = 15;
+        const COL_NUM = 24;
+        const DISTRACT = 300;
+        const BIGGEST_BTN = 80;
+        const DP_RATIO = 0.6;
+        const BASE_BTN = 1;
+    </script>
+    <link rel="stylesheet" type="text/css" href="resources/newtofu.css">
+</head>
+
+<body>
+
+ 
+
+
+<audio id="play1" src="../resources/OK.mp3" preload="auto" type="audio/mpeg" controls hidden="true" ></audio>
+    <% if(process.argv[2] !== 'tap'){ %>
+        <p><b class="calibration" id="Calibration1" style="font-size:100px;">+</b></p>
+        <p><b class="calibration" id="Calibration2" style="font-size:100px;">+</b></p>
+        <p><b class="calibration" id="Calibration3" style="font-size:100px;">+</b></p>
+        <p><b class="calibration" id="Calibration4" style="font-size:100px;">+</b></p>
+        <p><b class="calibration" id="Calibration5" style="font-size:100px;">+</b></p>
+        <p><b class="calibration" id="Calibration6" style="font-size:100px;">+</b></p>
+        <p><b class="calibration" id="Calibration7" style="font-size:100px;">+</b></p>
+        <p><b class="calibration" id="Calibration8" style="font-size:100px;">+</b></p>
+        <p><b class="calibration" id="Calibration9" style="font-size:100px;">+</b></p>
+    <% } %>
+
+    <% for(var i=0; i<15; i++) { %>
+        <% for(var j=0; j<24; j++) { %>
+            <div class="block" id="blk_<%=i%>_<%=j%>">
+                    <button>
+                    <% if(process.argv[2] === 'swipe'||process.argv[2] === 'EyeGesture'){ %>
+                        <% var op = 2 * ( i % 2 ) + ( j % 2 ); %>
+                        <img src="../resources/arrow_<%=op%>.png">
+                        <div class="trajectory">
+                            <div class="dot"></div>
+                        </div>
+                    <% } %>
+                    </button>
+            </div>
+        <% } %>
+    <% } %>
+
+
+    <div id="VisualHint_container">
+        <canvas id="VisualHint_canvas" width="2000" height="1800"></canvas>
+    </div>
+    
+    <% if(process.argv[4] === 'mobile' && process.argv[2] === 'swipe'){ %>
+        <div id="MobileContainer"></div>
+    <% } %>
+
+
+    <!-- 
+    <div id="canvas_container">
+        <canvas id="canvas" width="1400" height="1000"></canvas>
+    </div>
+ -->
+    
+    <% if(process.argv[2] !== 'tap'){ %>
+        <div id="eye_tracker" class="<%=EYETRACKER%>">
+            <% if(process.argv[2] === 'dwell'){ %>
+                <div id="circle"></div>
+            <% } %>
+        </div>
+    <% } %>
+
+    <script src="/socket.io/socket.io.js"></script>
+    <script src="resources/newtofu.js"></script>
+
+</body>
+
+</html>

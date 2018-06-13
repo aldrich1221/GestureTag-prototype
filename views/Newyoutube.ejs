@@ -1,0 +1,119 @@
+<html>
+
+<head>
+    <script src="http://code.jquery.com/jquery-3.2.1.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/hammer.js/2.0.8/hammer.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-circle-progress/1.2.2/circle-progress.js"></script>
+    <link rel="stylesheet" type="text/css" href="resources/youtube.css">
+    <script type="text/javascript">
+        const RADIUS = 100;
+    </script>
+</head>
+<body>
+    
+    <div id="header">
+        <div id="toggle"><button><img src="<%=OPTION_1%>"></button></div>
+        <div id="youtube"><button><img src="<%=OPTION_2%>"></button></div>
+        <div id="search">
+            <div id="search-bar"><button><img src="<%=OPTION_3%>"></button></div>
+            <div id="search-icon"><button><img src="<%=OPTION_4%>"></button></div>
+        </div>
+        <div id="right-block">
+            <div id="profile"><button><img src="<%=OPTION_4%>"></button></div>
+            <div id="notify"><button><img src="<%=OPTION_3%>"></button></div>
+            <div id="nine-grid"><button><img src="<%=OPTION_2%>"></button></div>
+            <div id="upload"><button><img src="<%=OPTION_1%>"></button></div>
+        </div>
+    </div>
+
+    <div id="side-bar">
+        <div class="side-btn" id="home"><button><img src="<%=OPTION_4%>"></button></div>
+        <div class="side-btn" id="trending"><button><img src="<%=OPTION_3%>"></button></div>
+        <div class="side-btn" id="subscriptions"><button><img src="<%=OPTION_1%>"></button></div>
+        <div id="library">
+            <div class="side-btn" id="library1"><button><img src="<%=OPTION_2%>"></button></div>
+            <div class="side-btn" id="library2"><button><img src="<%=OPTION_3%>"></button></div>
+            <div class="side-btn" id="library3"><button><img src="<%=OPTION_4%>"></button></div>
+            <div class="side-btn" id="library4"><button><img src="<%=OPTION_1%>"></button></div>
+            <div class="side-btn" id="library5"><button><img src="<%=OPTION_2%>"></button></div>
+        </div>
+        <div id="channels">
+            <div class="side-btn" id="channel01"><button><img src="<%=OPTION_3%>"></button></div>
+            <div class="side-btn" id="channel02"><button><img src="<%=OPTION_4%>"></button></div>
+            <div class="side-btn" id="channel03"><button><img src="<%=OPTION_1%>"></button></div>
+            <div class="side-btn" id="channel04"><button><img src="<%=OPTION_2%>"></button></div>
+            <div class="side-btn" id="channel05"><button><img src="<%=OPTION_3%>"></button></div>
+            <div class="side-btn" id="channel06"><button><img src="<%=OPTION_4%>"></button></div>
+            <div class="side-btn" id="channel07"><button><img src="<%=OPTION_1%>"></button></div>
+            <div class="side-btn" id="channel08"><button><img src="<%=OPTION_2%>"></button></div>
+            <div class="side-btn" id="channel09"><button><img src="<%=OPTION_3%>"></button></div>
+            <div class="side-btn" id="channel10"><button><img src="<%=OPTION_4%>"></button></div>
+            <div class="side-btn" id="channel11"><button><img src="<%=OPTION_1%>"></button></div>
+        </div>
+        <div class="side-btn" id="browse"><button><img src="<%=OPTION_2%>"></button></div>
+        <div class="side-btn" id="settings"><button><img src="<%=OPTION_3%>"></button></div>
+        <div class="side-btn" id="help"><button><img src="<%=OPTION_4%>"></button></div>
+    </div>
+
+    <div id="main">
+        <div id="main-video"><button><img src="<%=OPTION_1%>"></button></div>
+        <div id="control-bar">
+            <div id="control-icon1"><button><img src="<%=OPTION_4%>"></button></div>
+            <div id="control-icon2"><button><img src="<%=OPTION_2%>"></button></div>
+            <div id="control-icon3"><button><img src="<%=OPTION_3%>"></button></div>
+            <div id="control-icon4"><button><img src="<%=OPTION_3%>"></button></div>
+            <div id="control-icon5"><button><img src="<%=OPTION_2%>"></button></div>
+            <div id="control-icon6"><button><img src="<%=OPTION_4%>"></button></div>
+        </div>
+        <div id="reaction">
+            <div id="options"><button><img src="<%=OPTION_3%>"></button></div>
+            <div id="playlist"><button><img src="<%=OPTION_1%>"></button></div>
+            <div id="share"><button><img src="<%=OPTION_4%>"></button></div>
+            <div id="dislike"><button><img src="<%=OPTION_1%>"></button></div>
+            <div id="like"><button><img src="<%=OPTION_2%>"></button></div>
+        </div>
+        <div id="sigchi"><button><img src="<%=OPTION_1%>"></button></div>
+        <div id="subscribe"><button><img src="<%=OPTION_2%>"></button></div>
+        <div id="show-more"><button><img src="<%=OPTION_2%>"></button></div>
+        <div id="sort-by"><button><img src="<%=OPTION_3%>"></button></div>
+        <div id="comment"><button><img src="<%=OPTION_4%>"></button></div>
+    </div>
+
+    <div id="up-next">
+        <div id="auto"><button><img src="<%=OPTION_1%>"></button></div>
+        <div class="video" id="video01"><button><img src="<%=OPTION_4%>"></button></div>
+        <div class="video" id="video02"><button><img src="<%=OPTION_3%>"></button></div>
+        <div class="video" id="video03"><button><img src="<%=OPTION_2%>"></button></div>
+        <div class="video" id="video04"><button><img src="<%=OPTION_1%>"></button></div>
+        <div class="video" id="video05"><button><img src="<%=OPTION_4%>"></button></div>
+        <div class="video" id="video06"><button><img src="<%=OPTION_3%>"></button></div>
+        <div class="video" id="video07"><button><img src="<%=OPTION_2%>"></button></div>
+        <div class="video" id="video08"><button><img src="<%=OPTION_1%>"></button></div>
+        <div class="video" id="video09"><button><img src="<%=OPTION_4%>"></button></div>
+        <div class="video" id="video10"><button><img src="<%=OPTION_3%>"></button></div>
+        <div class="video" id="video11"><button><img src="<%=OPTION_2%>"></button></div>
+    </div>
+
+
+    <% if(process.argv[4] === 'mobile' && process.argv[2] === 'swipe'){ %>
+        <div id="MobileContainer"></div>
+        <% } %>
+
+            <div id="canvas_container">
+                <canvas id="canvas" width="1400" height="1000"></canvas>
+            </div>
+
+            <% if(process.argv[2] !== 'tap'){ %>
+                <div id="eye_tracker" class="<%=EYETRACKER%>">
+                    <% if(process.argv[2] === 'dwell'){ %>
+                        <div id="circle"></div>
+                        <% } %>
+                </div>
+                <% } %>
+
+                    <script src="/socket.io/socket.io.js"></script>
+                    <script src="resources/index.js"></script>
+
+</body>
+
+</html>
